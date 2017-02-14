@@ -1,0 +1,9 @@
+.classpath
+.project
+.eclipse
+*.swp
+*.iml
+
+**/.settings/
+**/target/
+.idea

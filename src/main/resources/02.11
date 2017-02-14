@@ -1,0 +1,7 @@
+02.13
+1. hyperloglog算法
+2. 理解聚合索引、非聚合索引
+3. 理解正向索引、逆向索引
+4. 开发everynote工具
+5. 搭建php开发环境，完成个人blog的开发
+6. Class.getResouse()、ClassLoader.getResource的区别
